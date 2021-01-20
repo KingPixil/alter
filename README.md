@@ -1,3 +1,3 @@
 # Alter
 
-convert text/code to images
+convert text/code to images.
